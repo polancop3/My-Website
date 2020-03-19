@@ -1,2 +1,82 @@
 # My-Website
 Portfolio Website
+<!DOCTYPE HTML>
+<html lang="en"> 
+<head>
+<meta charset="utf-8">
+<title>Pedro Polanco</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+
+<body>
+	<main>
+		<header>
+		<!--Profile -->
+		
+		<h1>Pedro Polanco</h1>
+		<h2>Software Developer</h2>
+		
+
+		
+	    </header>
+<div> <p id="first">A Fullstack Software Developer in training with strong multicultural awareness</p>
+
+</div>
+
+
+
+<!--------------Experience------------->
+	<section class="experience"> 
+
+<h3>Skills</h3>
+<p>I have experience with the following tools.</p>
+<ul>  
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Git and Github</li>
+<li>Command-Line</li>
+<li>Vi</li>
+
+
+</ul>
+
+</section>
+
+
+<!-------------projects------------->
+<section class="projects"> 
+
+<h3> Projects </h3>
+<p>My website <!--- i still have to <a> my website--> </p>
+
+</section>
+
+<!-----------------Education--------------->
+<section class="education">  
+<h3>Education</h3>
+<h5>SUNY New Paltz</h5>
+<p>Graduated Fall 2019 with a bachelors degree of Sociology</p>
+
+</section>
+
+
+<footer> 
+<h2>Let's keep in touch!</h2>
+<ul>
+<li><a href="https://www.linkedin.com/in/pedro-polanco-a458a919b/" target="_blank">LinkedIn</a></li>
+<li><a href="pedropolanco02@gmail.com" target="_blank">Gmail</a></li>
+<li><a href="https://github.com/polancop3" target="_blank">Github</a></li>
+
+</ul>
+	<p> &copy Pedro Polanco </p>
+         </footer>
+
+
+			</main>
+
+
+			 </body>
+
+     </html>
